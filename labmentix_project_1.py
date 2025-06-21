@@ -24,7 +24,7 @@ The project is an individual contribution by Mukta Arvind Londhe, and the code i
 The project leverages Python libraries such as Pandas, NumPy, Scikit-learn, and XGBoost for data manipulation, analysis, and modeling.
 The problem statement focuses on forecasting the closing price to aid in financial decision-making.
 
-GitHub Link - https://github.com/muktalondhe/ML-projects/edit/main/labmentix_project_1.py
+GitHub Link - https://github.com/muktalondhe/ML-projects/blob/main/labmentix_project_1.py
 
 Problem Statement- Find Out Closing Price Prediction of the Yes Bank
 
