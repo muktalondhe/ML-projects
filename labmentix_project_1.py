@@ -241,6 +241,7 @@ joblib.dump(scaler, 'scaler.pkl')
 
 print("Model and scaler saved successfully!")
 
+
 """**Key Insights:**
 
 * The stock shows high volatility with periods of rapid growth and sharp declines  
